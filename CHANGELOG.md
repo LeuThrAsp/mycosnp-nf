@@ -3,6 +3,21 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v1.1.? Candid Aura - [04/06/2022]
+
+### `Added`
+
+*		Version check statement in `usage.md`
+
+### `Fixed`
+
+### `Dependencies`
+
+### `Deprecated`
+
+### `TODO`
+
+---
 ## v1.1 Candid Aura - [04/01/2022]
 
 ### `Added`
